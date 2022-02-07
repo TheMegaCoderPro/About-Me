@@ -1,0 +1,10 @@
+body{
+  background-color:orange;
+  text-align:center;
+  font-size:30px;
+}
+h1{
+  border-type:solid;
+  border-color:darkblue;
+  border-width:10px;
+}
